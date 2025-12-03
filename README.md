@@ -108,7 +108,7 @@ Interface otimizada para desktop, tablet e mobile com animações suaves e exper
 
 \`\`\`bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/estacao-iot-sustentavel.git
+git clone https://github.com/ErickPenazzi07/iotec-dashboard-project
 
 # Entre no diretório
 cd estacao-iot-sustentavel
