@@ -231,7 +231,7 @@ Contribuições são sempre bem-vindas! Siga os passos abaixo:
 
 ## 🐛 Reportar Problemas
 
-Encontrou um bug? Abra uma [issue](https://github.com/seu-usuario/estacao-iot-sustentavel/issues) detalhando:
+Encontrou um bug? Abra uma [issue](https://github.com/ErickPenazzi07/iotec-dashboard-project) detalhando:
 
 - Descrição do problema
 - Passos para reproduzir
@@ -261,9 +261,9 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 Para dúvidas, sugestões ou parcerias:
 
-- Email: contato@estacaoiot.com.br
-- Website: [www.estacaoiot.com.br](#)
-- LinkedIn: [Estação IoT Sustentável](#)
+- Email: penazzi1234@gmail.com
+- Website: [https://iotec-dashboard-project.vercel.app/](#)
+- LinkedIn: [https://www.linkedin.com/in/erick-penazzi-573265377/](#)
 
 ---
 
